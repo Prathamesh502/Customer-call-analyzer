@@ -1,0 +1,21 @@
+Transcript,Summary,Sentiment
+"Hi, I tried to book a slot yesterday but the payment failed.  
+Yes, it’s 12345. This is really frustrating; I needed it urgently.  
+Ugh! Why does this keep happening?
+
+
+",The customer tried to book a slot but the payment failed and is frustrated as it was needed urgently.,Negative
+"Hello, I received my order yesterday and it’s perfect!
+Yes, the quality is excellent and delivery was fast.
+Definitely, I’ll order again soon.
+
+
+
+",The customer received their order and is very satisfied with the quality and delivery speed.,Positive
+"Hi, I wanted to check if my refund has been processed.
+It’s 67890.
+Okay, thanks for the information.
+
+
+
+",The customer inquired about the status of their refund with the reference number 67890.,Neutral
