@@ -39,5 +39,4 @@ Transcript (customer + agent):
 
 ---
 
-Do you also want me to **add a “How to Run” section** with the commands (like `pip install -r requirements.txt` + `python main.py`)? That way anyone on GitHub can clone and try it immediately.
 
