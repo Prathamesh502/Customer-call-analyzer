@@ -27,3 +27,17 @@ It extracts structured insights such as conversation summary and customer sentim
 
 ## 📂 Example Input
 Transcript (customer + agent):  
+
+---
+
+## 📂 Example Output
+```json
+{
+  "summary": "The customer faced a payment failure while booking a slot. The agent asked for the order ID, and the customer expressed frustration.",
+  "sentiment": "Negative"
+}
+
+---
+
+Do you also want me to **add a “How to Run” section** with the commands (like `pip install -r requirements.txt` + `python main.py`)? That way anyone on GitHub can clone and try it immediately.
+
